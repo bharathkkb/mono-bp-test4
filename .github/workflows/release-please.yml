@@ -9,7 +9,7 @@ jobs:
     name: rp
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@main
+      - uses: google-github-actions/release-please-action@v2
         id: release
         with:
           command: manifest-pr
