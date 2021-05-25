@@ -12,4 +12,4 @@ jobs:
       - uses: google-github-actions/release-please-action@main
         id: release
         with:
-          command: manifest
+          command: manifest-pr
