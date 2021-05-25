@@ -9,7 +9,7 @@ jobs:
     name: rp
     runs-on: ubuntu-latest
     steps:
-      - uses: GoogleCloudPlatform/release-please-action@main
+      - uses: google-github-actions/release-please-action@main
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
