@@ -8,5 +8,6 @@
       }
     },
     "bootstrap-sha": "7f140fd4bdc61df76be819d183aba5fce5b6053b",
-    "release-type": "simple"
+    "release-type": "simple",
+    "bump-minor-pre-major": true
   }
