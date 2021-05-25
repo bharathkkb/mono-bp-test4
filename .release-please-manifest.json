@@ -1,0 +1,4 @@
+{
+    "blueprints/bucket": "0.0.1",
+    "blueprints/redis-bucket": "0.0.1"
+  }

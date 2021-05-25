@@ -1,0 +1,12 @@
+{
+    "packages": {
+      "blueprints/bucket": {
+        "changelog-path": "blueprints/bucket/CHANGELOG.md"
+      },
+      "blueprints/redis-bucket": {
+        "changelog-path": "blueprints/redis-bucket/CHANGELOG.md"
+      }
+    },
+    "release-type": "simple"
+
+  }
