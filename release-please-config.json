@@ -1,13 +1,12 @@
 {
     "packages": {
       "blueprints/bucket": {
-        "release-type": "simple",
         "package-name": "bucket-blueprint"
       },
       "blueprints/redis-bucket": {
-        "release-type": "simple",
         "package-name": "redis-bucket-blueprint"
       }
     },
-    "bootstrap-sha": "7f140fd4bdc61df76be819d183aba5fce5b6053b"
+    "bootstrap-sha": "7f140fd4bdc61df76be819d183aba5fce5b6053b",
+    "release-type": "simple"
   }
