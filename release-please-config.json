@@ -6,5 +6,6 @@
       "blueprints/redis-bucket": {
         "release-type": "simple"
       }
-    }
+    },
+    "bootstrap-sha": "7f140fd4bdc61df76be819d183aba5fce5b6053b"
   }
